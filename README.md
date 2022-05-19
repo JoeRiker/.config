@@ -1,4 +1,4 @@
-# .config
+# dot.config
 File di configurazione vari
 
 Qui salvo tutti i file di configurazione organizzati in cartelle indicanti il nome del relativo programma.
